@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khushii018
 - 👀 I’m interested in Java Development.
-- 🌱 I’m currently learning Frontend Development.
+- 🌱 I’m currently learning Backend Development.
 
 
 <!---
